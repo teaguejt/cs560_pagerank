@@ -1,0 +1,18 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+<page>
+<title>Page A</title>
+<revision><text>[[Page B]] [[Page C]] [[Page D]]</text></revision>
+</page>
+<page>
+<title>Page B</title>
+<revision><text>[[Page A]]</text></revision>
+</page>
+<page>
+<title>Page C</title>
+<revision><text>[[Page A]]</text></revision>
+</page>
+<page>
+<title>Page D</title>
+<revision><text>[[Page A]]</text></revision>
+</page>
+</mediawiki>
